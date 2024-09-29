@@ -2,7 +2,7 @@
 /*
 Plugin Name: Metal Price Info
 Description: Display metal price data table
-Version:     1.0.0
+Version:     1.0.1
 Author:      Md. Abdul Hannan
 Author URI:  #
 Text Domain: metalprice-info
@@ -14,7 +14,7 @@ defined( 'ABSPATH' ) or die;
 /**
  * Define required constants
  */
-define( 'METALPRICE_VER', '1.0.0' );
+define( 'METALPRICE_VER', '1.0.1' );
 define( 'METALPRICE_URL', plugins_url( '', __FILE__ ) );
 define( 'METALPRICE_PLUGIN_PATH', plugin_dir_path( __FILE__ ) );
 define( 'METALPRICE_URL_ASSETS', METALPRICE_URL . '/assets' );
